@@ -1,0 +1,7 @@
+# Libraries imported by the notebook (Google Colab already has them)
+pandas
+numpy
+matplotlib
+
+# Used by logger/logger.py
+requests

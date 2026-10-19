@@ -1,0 +1,25 @@
+# Trip files are downloaded separately (about 1 GB, too large for GitHub)
+data/bluebikes-trips/*.csv
+data/bluebikes-trips/*.zip
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local environments and credentials
+venv/
+.venv/
+env/
+.env
+*.env
+
+# Editors and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary outputs
+outputs/
+*.log
